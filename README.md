@@ -5,6 +5,8 @@ Open Source! Free to use, no CopyRight!
 
 only Original is Save!
 
+--------------------------------------------------------------
+
 CatOnPlugin by CatOnAir, Plugin in Progress
 
 Newest Public(Basic) Version: v.0.0.5-Alpha
